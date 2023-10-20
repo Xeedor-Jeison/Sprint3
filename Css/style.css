@@ -328,3 +328,86 @@ table{
     text-align: center;
     margin: 50px 20px 70px 20px;
 }
+
+/* Here begins page six */
+
+.map-form{
+    display: flex;
+    justify-content: space-around;
+}
+
+.map{
+    margin-top: 7vh;
+}
+.map-title{
+    font-size: 35px;
+    margin-bottom: 2vh;
+    text-align: center;
+    color: #521515;
+}
+
+.form{
+    width: 800px;
+}
+
+.formulario{
+    margin-left: 50px;
+    
+}
+
+label{
+    font-weight: bold;
+    color: #521515;
+    font-size: 25px;
+}
+input{
+    margin-bottom: 10px;
+    width: 600px;
+    height: 60px;
+    font-size: 20px;
+}
+.payment{
+    margin-bottom: 10px;
+}
+#cash,#credit-card,#debit-card{
+    width: 20px;
+    height: 20px;
+    margin-bottom: 0;
+    margin-left: 10px;
+}
+
+.cash,.credit-card,.debit-card{
+    font-size: 16x;
+}
+
+#debit-card{
+    margin-bottom: 20px;
+}
+#cash{
+    margin-top: 1vh;
+}
+
+#text{
+    width: 32vw;
+    height: 15vh;
+    font-size: 20px;
+    margin-bottom: 2vh;
+}
+#terms-conditions{
+    width: 1vw;
+    height: 2vh;
+}
+
+.send{
+    height: 4vh;
+    width: 6vw;
+    margin-left: 20px;
+    border: 2px solid #f26b8c;
+    border-radius: 20px;
+    background-color: antiquewhite;
+}
+
+.send:hover{
+    color: #521515;
+    background-color: #faa6ac;
+}
