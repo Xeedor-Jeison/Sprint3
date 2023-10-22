@@ -374,11 +374,14 @@ footer{
         color: #521515;
         font-size: 2.5vw;
     }
-    input{
-        margin-bottom: 1vh;
-        width: 34vw;
-        height: 3vh;
+    input, select{
+        margin-bottom: 10px;
+        width: 36vw;
+        height: 6vh;
         font-size: 2vw;
+    }
+    option{
+        text-align: center;
     }
     .payment{
         margin-bottom: 1vh;
@@ -787,11 +790,14 @@ footer{
         color: white;
         font-size: 2.5vw;
     }
-    input{
-        margin-bottom: 1vh;
-        width: 34vw;
-        height: 3vh;
+    input, select{
+        margin-bottom: 10px;
+        width: 36vw;
+        height: 6vh;
         font-size: 2vw;
+    }
+    option{
+        text-align: center;
     }
     .payment{
         margin-bottom: 1vh;
@@ -1194,11 +1200,14 @@ footer{
         color: #521515;
         font-size: 2vw;
     }
-    input{
+    input, select{
         margin-bottom: 10px;
         width: 36vw;
         height: 6vh;
-        font-size: 20px;
+        font-size: 1.5vw;
+    }
+    option{
+        text-align: center;
     }
     .payment{
         margin-bottom: 10px;
